@@ -4,10 +4,10 @@ body {
   margin: 0;
 
 }
-h1, a{
+h1{
   text-align: center;;
 }
-img{
+img, a{
   display: block;
   margin-left: auto;
   margin-right: auto;
