@@ -14,13 +14,11 @@ img{
 }
 #details p{
   display:block;
-  width:120px;
-
-  padding: inherit;
-}
+  }
 
 #details div {
   float: left;
+  width:120px;
 background-color: red;
 }
 nav a{
