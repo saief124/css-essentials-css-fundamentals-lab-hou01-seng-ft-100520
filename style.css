@@ -14,14 +14,15 @@ img{
 }
 #details {
   background-color: red;
-  display: block
+  display: block;
+  float: left;
 }
 nav a{
   background-color: grey;
   padding-left: 10px;
   padding-right: 10px;
   }
-  nav{
+nav{
     margin:auto;
   }
 
