@@ -14,11 +14,12 @@ img{
 }
 #details p{
   display:block;
+  width:120px;
   }
 
 #details div {
   float: left;
-  width:120px;
+  
 background-color: red;
 }
 nav a{
