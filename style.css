@@ -7,12 +7,12 @@ body {
 h1{
   text-align: center;;
 }
-img, nav{
+img{
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
-<p># featured-property{
+<p# featured-property{
   color: grey;
 }
 nav a{
