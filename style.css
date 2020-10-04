@@ -14,6 +14,7 @@ img{
 }
 #details {
   display:block;
+  width: 120px;
   }
 
 #details div {
