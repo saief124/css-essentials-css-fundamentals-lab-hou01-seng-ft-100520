@@ -13,13 +13,14 @@ img{
   margin-right: auto;
 }
 #details {
-  background-color: red;
+  
   display: block;
 }
 
 #details div {
   float: left;
   display: inline;
+  background-color: red;
 }
 nav a{
   background-color: grey;
