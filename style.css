@@ -12,7 +12,10 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
-
+#details p{
+  display:block;
+  width:120px;
+}
 
 #details div {
   float: left;
