@@ -14,12 +14,12 @@ img{
 }
 #details p{
   display:block;
-  padding: 25px;
+  
   }
 
 #details div {
   float: left;
-
+padding: 25px;
 background-color: red;
 }
 nav a{
