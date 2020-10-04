@@ -28,7 +28,10 @@ nav a{
   padding-right: 10px;
     }
 
-
+#featured-property p{
+  width: 800px;
+  text-align: center;
+}
 
 figcaption{
   color: red;
