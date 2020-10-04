@@ -12,7 +12,7 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
-p {
+p#"featured-property" {
   color: blue;
 }
 nav a{
