@@ -15,11 +15,12 @@ img{
 #details a{
   display:block;
   width:120px;
+  background-color: red;
 }
 
 #details div {
   float: left;
-  background-color: red;
+  
 }
 nav a{
   background-color: grey;
