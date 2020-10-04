@@ -12,7 +12,9 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
-
+nav{
+  margin: auto;
+}
 div a{
   color:grey;
   padding-left: 10px;
