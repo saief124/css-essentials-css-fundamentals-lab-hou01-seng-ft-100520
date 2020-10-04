@@ -18,6 +18,7 @@ img{
   }
 
 #details div {
+  width:120px
   float: left;
 padding: 10px;
 background-color: red;
