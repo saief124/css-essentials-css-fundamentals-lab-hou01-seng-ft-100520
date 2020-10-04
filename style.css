@@ -4,4 +4,6 @@ body {
   margin: 0;
 
 }
-  h1{color:red;}
+h1, section# featured-property{
+  margin:auto;
+}  
