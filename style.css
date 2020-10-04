@@ -16,7 +16,7 @@ section p {
   color: blue;
 }
 nav a{
-  color:grey;
+  background-color: grey;
   padding-left: 10px;
   padding-right: 10px;
   }
