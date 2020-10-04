@@ -16,6 +16,7 @@ img{
   display:block;
   width:120px;
   background-color: red;
+  padding: inherit;
 }
 
 #details div {
