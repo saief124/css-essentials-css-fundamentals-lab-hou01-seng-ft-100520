@@ -19,7 +19,7 @@ img{
 
 #details div {
   float: left;
-  padding: 10px;
+  width: 25%;
   background-color: red
 }
 nav a{
