@@ -14,13 +14,10 @@ img{
 }
 #details {
   background-color: red;
-  display: block;
+  display: inline-block;;
 }
 
-p#details {
-  float: left;
-  display: inline
-}
+
 nav a{
   background-color: grey;
   padding-left: 10px;
