@@ -12,12 +12,12 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
+
+
 #details {
-  background-color: red;
-  display: inline;
+  float: left;
+  display: inline
 }
-
-
 nav a{
   background-color: grey;
   padding-left: 10px;
