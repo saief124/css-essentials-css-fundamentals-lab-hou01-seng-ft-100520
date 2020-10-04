@@ -17,7 +17,7 @@ img{
   display: block;
 }
 
-#details div {
+p#details {
   float: left;
   display: inline
 }
