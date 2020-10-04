@@ -15,13 +15,13 @@ img{
 #details p{
   display:block;
   width:120px;
-  background-color: red;
+
   padding: inherit;
 }
 
 #details div {
   float: left;
-
+background-color: red;
 }
 nav a{
   background-color: grey;
