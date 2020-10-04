@@ -17,8 +17,9 @@ img{
   display: block;
 }
 
-details div {
+#details div {
   float: left;
+  display: inline
 }
 nav a{
   background-color: grey;
