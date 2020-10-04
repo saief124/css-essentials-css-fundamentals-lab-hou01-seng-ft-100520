@@ -12,16 +12,14 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
-#details p{
+#details {
   display:block;
-
   }
 
 #details div {
-  
   float: left;
-padding: 10px;
-background-color: red;
+  padding: 10px;
+  background-color: red
 }
 nav a{
   background-color: grey;
