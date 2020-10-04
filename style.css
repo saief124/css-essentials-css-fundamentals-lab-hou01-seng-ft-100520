@@ -12,10 +12,10 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
-nav a{
+<p># featured-property{
   color: grey;
 }
-div a{
+nav a{
   color:grey;
   padding-left: 10px;
   padding-right: 10px;
