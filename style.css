@@ -14,6 +14,5 @@ img{
 }
 
 div# details{
-  display: block;
-  margin:auto;
+  color: red;
 }
