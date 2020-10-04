@@ -16,7 +16,6 @@ img{
 
 #details div {
   float: left;
-  display: inline;
   background-color: red;
 }
 nav a{
